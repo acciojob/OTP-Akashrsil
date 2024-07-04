@@ -1,1 +1,21 @@
 /*  your css code here. If applicable */
+p{
+	align-items:center;
+}
+h1{
+	align-items:center
+}
+.otp-container {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            gap: 10px; /* Space between input fields */
+        }
+        .otp-container input {
+            width: 2em;
+            padding: 6px;
+            font-size: 1.5em;
+            text-align: center;
+            border: 1px solid #ccc;
+            border-radius: 5px;
+        }
