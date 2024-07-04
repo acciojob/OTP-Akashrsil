@@ -11,7 +11,7 @@ h1{
             align-items: center;
             gap: 10px; /* Space between input fields */
         }
-        .otp-container input {
+        .code-container input {
             width: 2em;
             padding: 6px;
             font-size: 1.5em;
